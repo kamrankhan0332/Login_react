@@ -1,0 +1,14 @@
+asgiref==3.4.1
+cffi==1.15.1
+cryptography==37.0.4
+Django==3.2.15
+django-cors-headers==3.10.1
+djangorestframework==3.13.1
+ez-setup==0.9
+jwt==1.3.1
+pkg_resources==0.0.0
+psycopg2-binary==2.9.3
+pycparser==2.21
+pytz==2022.2.1
+sqlparse==0.4.2
+typing_extensions==4.1.1
